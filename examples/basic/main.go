@@ -27,4 +27,3 @@ func main() {
 	fmt.Printf("Image URL: %s\n", result.ImageURL)
 	fmt.Printf("Session ID: %s\n", result.SessionID)
 }
-

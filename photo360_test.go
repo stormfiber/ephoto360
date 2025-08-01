@@ -61,4 +61,3 @@ func TestSetNames(t *testing.T) {
 		}
 	}
 }
-
