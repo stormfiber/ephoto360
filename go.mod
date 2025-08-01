@@ -1,6 +1,8 @@
 module github.com/stormfiber/ephoto360
 
-go 1.23
+go 1.23.0
+
+toolchain go1.23.11
 
 require github.com/PuerkitoBio/goquery v1.10.3
 
